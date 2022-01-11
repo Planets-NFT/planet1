@@ -1,0 +1,449 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        39.886882781982422,
+        59.41253662109375,
+        42.864749908447266
+      ],
+      "min": [
+        -42.443878173828125,
+        31.753767013549805,
+        -40.821174621582031
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        0.99992424249649048,
+        0.99999940395355225,
+        0.999921977519989
+      ],
+      "min": [
+        -0.99997478723526,
+        -0.47187697887420654,
+        -0.999976396560669
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5123,
+      "count": 387096,
+      "type": "SCALAR",
+      "max": [
+        65024.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        41.960723876953125,
+        -31.772615432739258,
+        41.651092529296875
+      ],
+      "min": [
+        -41.879661560058594,
+        -60.047355651855469,
+        -42.632083892822266
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        0.99997252225875854,
+        0.35603567957878113,
+        0.999903678894043
+      ],
+      "min": [
+        -0.99997758865356445,
+        -0.999998152256012,
+        -0.999832034111023
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 387096,
+      "type": "SCALAR",
+      "max": [
+        65024.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        -31.753767013549805,
+        42.443878173828125,
+        40.627716064453125
+      ],
+      "min": [
+        -58.465290069580078,
+        -41.879661560058594,
+        -41.82891845703125
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        0.36977872252464294,
+        0.99977654218673706,
+        0.9999881386756897
+      ],
+      "min": [
+        -0.9999847412109375,
+        -0.99995905160903931,
+        -0.99962401390075684
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5123,
+      "count": 387096,
+      "type": "SCALAR",
+      "max": [
+        65024.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        58.139999389648438,
+        39.886878967285156,
+        39.625823974609375
+      ],
+      "min": [
+        32.0955924987793,
+        -41.960723876953125,
+        -42.219482421875
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        0.99999910593032837,
+        0.999987781047821,
+        0.99998146295547485
+      ],
+      "min": [
+        -0.3447246253490448,
+        -0.99987971782684326,
+        -0.99990570545196533
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 387096,
+      "type": "SCALAR",
+      "max": [
+        65024.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        42.219482421875,
+        40.821174621582031,
+        -31.823734283447266
+      ],
+      "min": [
+        -41.82891845703125,
+        -42.643718719482422,
+        -58.835289001464844
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        0.99921613931655884,
+        0.99993103742599487,
+        0.33624014258384705
+      ],
+      "min": [
+        -0.9999920129776001,
+        -0.99976444244384766,
+        -0.99999922513961792
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 387096,
+      "type": "SCALAR",
+      "max": [
+        65024.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        39.625823974609375,
+        42.864749908447266,
+        58.325344085693359
+      ],
+      "min": [
+        -40.197910308837891,
+        -41.651092529296875,
+        31.753767013549805
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 65025,
+      "type": "VEC3",
+      "max": [
+        0.99979424476623535,
+        0.99992233514785767,
+        0.99999105930328369
+      ],
+      "min": [
+        -0.99913805723190308,
+        -0.9999653697013855,
+        -0.40176653861999512
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5123,
+      "count": 387096,
+      "type": "SCALAR",
+      "max": [
+        65024.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Planet.bin",
+      "byteLength": 14008752
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 780300,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1560600,
+      "byteLength": 774192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2334792,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3115092,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3895392,
+      "byteLength": 774192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4669584,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5449884,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6230184,
+      "byteLength": 774192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7004376,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7784676,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8564976,
+      "byteLength": 774192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9339168,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10119468,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10899768,
+      "byteLength": 774192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11673960,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12454260,
+      "byteLength": 780300
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13234560,
+      "byteLength": 774192
+    }
+  ],
+  "materials": [
+    {
+      "name": "Planet Mat"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 3,
+            "NORMAL": 4
+          },
+          "indices": 5,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7
+          },
+          "indices": 8,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10
+          },
+          "indices": 11,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13
+          },
+          "indices": 14,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16
+          },
+          "indices": 17,
+          "material": 0
+        }
+      ],
+      "name": "Planet"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "Planet"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Planet"
+    }
+  ]
+}
